@@ -51,7 +51,7 @@ export const lefttours = [
     flightIncluded: false,
     pricePerPerson: 1460,
     currency: "USD",
-    image: "https://lp-cms-production.imgix.net/2019-06/ab57ac3775d90a72da514d158401bd47-angkor-wat.jpg"
+    image: "https://i.pinimg.com/736x/68/b2/20/68b220c9e47b7e1e1129ec13618faab5.jpg"
   },
   {
     tag: "Must see",
@@ -60,7 +60,7 @@ export const lefttours = [
     flightIncluded: false,
     pricePerPerson: 290,
     currency: "USD",
-    image: "https://cdn.britannica.com/74/114074-050-F6463B90/Angkor-Wat-Cambodia.jpg"
+    image: "https://i.pinimg.com/1200x/34/74/82/347482bba8ed5a8d7fd7097eea29dc9d.jpg"
   },
 
 ];
@@ -73,16 +73,16 @@ export const rigthtour = [
     flightIncluded: false,
     pricePerPerson: 600,
     currency: "USD",
-    image: "https://www.tourismcambodia.com/img/travelguides/2886heritage-cultural-tourism.jpg"
+    image: "https://i.pinimg.com/1200x/f8/b6/f0/f8b6f01252badd9573c45e54a76dfa89.jpg"
   },
   {
     tag: "Must see",
-    title: "The temples of Angkor and the southern islands",
+    title: "The temples of Angkor ",
     duration: 10,
     flightIncluded: false,
     pricePerPerson: 1310,
     currency: "USD",
-    image: "https://res.cloudinary.com/simpleview/image/upload/v1591827507/clients/cambodia/Koh_Rong_Island_1_1_c4f1a5b0-6b5b-4b5a-8c0e-2e3f3c2b1e3f.jpg"
+    image: "https://i.pinimg.com/736x/fa/ed/b3/faedb3797b57f1f17041f915613a9101.jpg"
   },
   {
     tag: "Must see",
@@ -91,6 +91,6 @@ export const rigthtour = [
     flightIncluded: false,
     pricePerPerson: 1500,
     currency: "USD",
-    image: "https://cdn.britannica.com/74/114074-050-F6463B90/Angkor-Wat-Cambodia.jpg"
+    image: "https://i.pinimg.com/736x/47/c3/a1/47c3a1dd5cdb2cffca8ea0bc5514420e.jpg"
   }
 ]
