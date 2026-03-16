@@ -4,6 +4,7 @@ import { FaSearch } from "react-icons/fa";
 import angkor from '../assets/Image/angkorwant.png'
 import Typed from 'typed.js';
 import { dataimg } from '../../data';
+import { Link } from 'react-router-dom';
 
 const Banner = () => {
     const el = useRef(null);
@@ -29,8 +30,8 @@ const Banner = () => {
                         {/* navbar */}
                         <div className='mt-4'>
                             <ul className='flex gap-4 '>
-                                <li><a href="" className='font-bold text-white text-md'>Trips</a></li>
-                                <li><a href="" className='font-bold text-white text-md'>Guide</a></li>
+                                <li><Link to={"/tripe"} href="" className='font-bold text-white text-md'>Trips</Link></li>
+                                <li><Link to={"/guide"} href="" className='font-bold text-white text-md'>Guide</Link></li>
                                 <li><a href="" className='font-bold text-white text-md'>Travel Tip</a></li>
                                 <li><a href="" className='font-bold text-white text-md'>Travel Angency</a></li>
                                 <li><a href="" className='font-bold text-white text-md'>Blog</a></li>
